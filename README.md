@@ -1,2 +1,1 @@
 - 👋 Hi, I’m @maszynski
-- 👀 I’m interested in frontend development
